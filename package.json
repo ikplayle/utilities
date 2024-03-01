@@ -1,0 +1,9 @@
+{
+  "name": "utilities",
+  "version": "1.0.0",
+
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.11.24"
+  }
+}
